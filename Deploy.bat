@@ -1,0 +1,1 @@
+echo "Deploying the Project : %date% : %time% .. this is Deploy process Sucess "

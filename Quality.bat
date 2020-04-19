@@ -1,0 +1,1 @@
+echo "Quality testing of the Project : %date% : %time% .. this is Quality testing process Sucess "
